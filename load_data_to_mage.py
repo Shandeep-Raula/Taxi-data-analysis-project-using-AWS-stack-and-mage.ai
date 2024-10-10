@@ -13,7 +13,7 @@ def load_data_from_s3(*args, **kwargs):
     """
     Template for loading data from S3 bucket using AWS Boto3 library
     """
-    bucket_name = 'kinzorize2023uberproject'
+    bucket_name = 'bucketname'
     key = 'yellow_tripdata_2022-01.csv'
 
     s3 = boto3.client('s3')
