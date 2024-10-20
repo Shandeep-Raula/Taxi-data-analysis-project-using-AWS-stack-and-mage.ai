@@ -1,4 +1,4 @@
-# taxi-data-analysis-project-using-AWS-tech-stacks-and-mage.ai
+# Taxi data analysis project using AWS tech stacks and mage.ai
 
 # Introduction
 
